@@ -20,8 +20,9 @@ I am a third-year student studying Digital Technology Innovation at Kasem Bundit
 - Exploring AI Tools
 
 ## 🎯 My Career Goal
+My career goal is to become a web developer. I want to improve my programming skills and create useful, user-friendly websites.
 
-My goal is to become a web developer. I want to improve my programming skills and create useful and user-friendly websites.
+
 
 ## 📚 My Learning Plan
 
